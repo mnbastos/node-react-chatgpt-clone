@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   display: flex;
-  background-color: #282c34;
+  background-color: #200589;
   color:white;
   position: absolute;
   top:0;
@@ -32,7 +32,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #e9fb61;
 }
 
 @keyframes App-logo-spin {
@@ -49,7 +49,7 @@
 .chatbox{
   flex: 1;
   /* border:1px solid white; */
-  background-color: #353541;
+  background-color: #060683;
   position: relative;
   overflow-y:auto;
 }
@@ -111,7 +111,7 @@
 }
 
 .avatar.chatgpt{
-  background: #0da37f;
+  background: #a3330d;
   border-radius: 50%;
   width: 40px;
   height: 40px;
